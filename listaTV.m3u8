@@ -3,6 +3,9 @@
 #EXTINF:-1, TELECEIBA
 https://astra.teleceiba.com:8443/play/a002/index.m3u8
 
+#EXTINF:-1, LitoralHD
+https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
+
 #EXTINF:-1, CANAL 32 cablecolor
 https://201.220.133.122:8920/Canal32HD/mono.m3u8
 
