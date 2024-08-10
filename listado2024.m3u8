@@ -1,0 +1,128 @@
+#EXTM3U
+
+#EXTINF:-1, CANAL 32 cablecolor
+https://201.220.133.122:8920/Canal32HD/mono.m3u8
+
+#EXTINF:-1, CANAL 23 enred
+rtmp://168.181.121.194:1935/cha3/live?key=wP@vT6*vcLq
+
+#EXTINF:-1, HCH DAILYMOTION 
+https://www.dailymotion.com/video/x81za5c
+
+#EXTINF:-1, CAMERA HOME
+rtsp://admin:2020wifi@192.168.1.2/live
+
+#EXTINF:0,10.2000-RCN NUESTRA TELE - RCN NUESTRA TELE
+http://138.0.228.250:44380/play/NwTjrW2RFy1Um4zW/index.m3u8
+#EXTINF:0,10200-3ABN - NK
+http://138.0.228.250:44380/play/qYbEL5CrT66UMmFpXkifhs/index.m3u8
+#EXTINF:0,11.2000-DISNEY JR - NK
+http://138.0.228.250:44380/play/QnbYDeU2yshyMZpD/index.m3u8
+#EXTINF:0,12.2000-ZOOMOO NK
+http://138.0.228.250:44380/play/a01e/index.m3u8
+#EXTINF:0,13.2000-AZ CORAZON NK
+http://138.0.228.250:44380/play/ZYfj23fPhTjFbjAf/index.m3u8
+#EXTINF:0,24 H
+http://138.0.228.250:44380/play/a00u/index.m3u8
+#EXTINF:0,9.2000-FLIX - NK
+http://138.0.228.250:44380/play/wdX3QZMUCFXFszE3e/index.m3u8
+#EXTINF:0,9400-FOOD NETWORK - NKT
+http://138.0.228.250:44380/play/a01a/index.m3u8
+#EXTINF:0,9800-ESPN5 HD - NK
+http://138.0.228.250:44380/play/LgCniNs0x07K/index.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+http://138.0.228.250:44380/play/a004/index.m3u8
+#EXTINF:0,AZATECA 7 HD
+http://138.0.228.250:44380/play/a00l/index.m3u8
+#EXTINF:0,AZTECA 7 HD MX
+http://138.0.228.250:44380/play/a00z/index.m3u8
+#EXTINF:0,AZTECA UNO HD
+http://138.0.228.250:44380/play/a00m/index.m3u8
+#EXTINF:0,CANAL 11 HD
+http://138.0.228.250:44380/play/a009/index.m3u8
+#EXTINF:0,CANAL 5 XHGC HD
+http://138.0.228.250:44380/play/a00k/index.m3u8
+#EXTINF:0,CANAL 5 XHGC HD MX
+http://138.0.228.250:44380/play/a010/index.m3u8
+#EXTINF:0,CINE MEXICANO HD MX
+http://138.0.228.250:44380/play/a013/index.m3u8
+#EXTINF:0,CLAN HD
+http://138.0.228.250:44380/play/a00v/index.m3u8
+#EXTINF:0,D PELICULA HD MX
+http://138.0.228.250:44380/play/a012/index.m3u8
+#EXTINF:0,DISNEY HD
+http://138.0.228.250:44380/play/a00b/index.m3u8
+#EXTINF:0,DISTRITO COMEDIA HD MX
+http://138.0.228.250:44380/play/a014/index.m3u8
+#EXTINF:0,E! NK
+http://138.0.228.250:44380/play/RgKhcDLNRJ4Qqea/index.m3u8
+#EXTINF:0,EL LIDER HD
+http://138.0.228.250:44380/play/a002/index.m3u8
+#EXTINF:0,ESPN 2 HD
+http://138.0.228.250:44380/play/a00p/index.m3u8
+#EXTINF:0,ESPN 3 HD
+http://138.0.228.250:44380/play/a00q/index.m3u8
+#EXTINF:0,ESPN 3 HD
+http://138.0.228.250:44380/play/hls://181.114.57.246:5850/4hrEpujghmYgjET8.m3u8/index.m3u8
+#EXTINF:0,ESPN HD
+http://138.0.228.250:44380/play/a003/index.m3u8
+#EXTINF:0,ESTRELLAS HD MX
+http://138.0.228.250:44380/play/a011/index.m3u8
+#EXTINF:0,FOX SPORT 2 HD MX
+http://138.0.228.250:44380/play/a015/index.m3u8
+#EXTINF:0,GOLDEN HD
+http://138.0.228.250:44380/play/a00g/index.m3u8
+#EXTINF:0,HBO + HD
+http://138.0.228.250:44380/play/a001/index.m3u8
+#EXTINF:0,HBO 2 HD
+http://138.0.228.250:44380/play/a00d/index.m3u8
+#EXTINF:0,HCH HD
+http://138.0.228.250:44380/play/a00a/index.m3u8
+#EXTINF:0,HISTORY2 - NKT
+http://138.0.228.250:44380/play/21xYmwJRfM7Hfou/index.m3u8
+#EXTINF:0,INVESTIGATION DISCOVERY - NKT
+http://138.0.228.250:44380/play/a019/index.m3u8
+#EXTINF:0,LA LIGA HD MX
+http://138.0.228.250:44380/play/a017/index.m3u8
+#EXTINF:0,LAS ESTRELLAS HD
+http://138.0.228.250:44380/play/a00h/index.m3u8
+#EXTINF:0,LIFETIME - NKT
+http://138.0.228.250:44380/play/dPNW18hr5GmIb3T/index.m3u8
+#EXTINF:0,MI MUSICA REGETON HD
+http://138.0.228.250:44380/play/a00o/index.m3u8
+#EXTINF:0,NAT GEO HD
+http://138.0.228.250:44380/play/a00n/index.m3u8
+#EXTINF:0,NICK HD
+http://138.0.228.250:44380/play/a00c/index.m3u8
+#EXTINF:0,REDBULL NK
+http://138.0.228.250:44380/play/e4qSXSNMk4mcusf/index.m3u8
+#EXTINF:0,SPACE HD
+http://138.0.228.250:44380/play/a00f/index.m3u8
+#EXTINF:0,STAR CHANEL HD
+http://138.0.228.250:44380/play/a00e/index.m3u8
+#EXTINF:0,STAR TVE HD
+http://138.0.228.250:44380/play/a00t/index.m3u8
+#EXTINF:0,STARCHANNEL - NKT
+http://138.0.228.250:44380/play/rrbJCSv5TM24E5Vs2/index.m3u8
+#EXTINF:0,TELECADENA 7/4 HD
+http://138.0.228.250:44380/play/a007/index.m3u8
+#EXTINF:0,TELEMUNDO MIAMI HD
+http://138.0.228.250:44380/play/a00j/index.m3u8
+#EXTINF:0,TELEMUNDO MIAMI HD MX
+http://138.0.228.250:44380/play/a016/index.m3u8
+#EXTINF:0,TEN CANAL 10 HD
+http://138.0.228.250:44380/play/a01b/index.m3u8
+#EXTINF:0,TLC - NKT
+http://138.0.228.250:44380/play/WUXNpSsVuzHrURg/index.m3u8
+#EXTINF:0,TSI HD
+http://138.0.228.250:44380/play/a008/index.m3u8
+#EXTINF:0,TUDN HD MX
+http://138.0.228.250:44380/play/a00y/index.m3u8
+#EXTINF:0,TVE HD
+http://138.0.228.250:44380/play/a00s/index.m3u8
+#EXTINF:0,Tlnovelas HD MX
+http://138.0.228.250:44380/play/a00x/index.m3u8
+#EXTINF:0,UNIVISION HD
+http://138.0.228.250:44380/play/a00i/index.m3u8
+#EXTINF:0,VIDEOROLA - NKT
+http://138.0.228.250:44380/play/9kLuuNM49ja2KsKCTVE7/index.m3u8
