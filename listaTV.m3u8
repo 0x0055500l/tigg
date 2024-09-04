@@ -1,56 +1,38 @@
 #EXTM3U
-
 #EXTINF:-1, TELECEIBA
 https://astra.teleceiba.com:8443/play/a002/index.m3u8
-
-#EXTINF:-1, LitoralHD
+#EXTINF:-1,LitoralHD
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
-
-#EXTINF:-1, CANAL 32 cablecolor
+#EXTINF:-1,CANAL 32 cablecolor
 https://201.220.133.122:8920/Canal32HD/mono.m3u8
-
-#EXTINF:-1, CANAL 23 enred
+#EXTINF:-1,CANAL 23 enred
 rtmp://168.181.121.194:1935/cha3/live?key=wP@vT6*vcLq
-
-#EXTINF:-1, HCH DAILYMOTION 
+#EXTINF:-1,HCH DAILYMOTION 
 https://www.dailymotion.com/video/x81za5c
-
-#EXTINF:-1, DEPORTES TVC ENVIVO
+#EXTINF:-1,DEPORTES TVC ENVIVO
 rtmp://10.100.100.38/live/0
-
-#EXTINF:-1, tsi
+#EXTINF:-1,tsi
 rtmp://10.100.100.34/live/0
-
-#EXTINF:-1, TELEVICENTRO
+#EXTINF:-1,TELEVICENTRO
 rtmp://10.100.100.34/live/4
-
-#EXTINF:-1, Telecadena 7/4
+#EXTINF:-1,Telecadena 7/4
 rtmp://10.100.100.34/live/8
-
-#EXTINF:-1, MEGA CLASICOS
+#EXTINF:-1,MEGA CLASICOS
 http://10.100.100.34/12.ts
-
-#EXTINF:-1, HCH SD 
+#EXTINF:-1,HCH SD 
 https://201.220.133.122:8920/HCH/mono.m3u8
-
-#EXTINF:-1, CANAL 32
+#EXTINF:-1,CANAL 32
 -BUENO- http://10.10.24.106/0.ts
-
-#EXTINF:-1, CANAL 11
+#EXTINF:-1,CANAL 11
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-#EXTINF:-1, DEPORTESTVC1
+#EXTINF:-1,DEPORTESTVC1
 rtmp://190.5.109.106:1010
-
-#EXTINF:-1, DEPORTESTVC2
+#EXTINF:-1,DEPORTESTVC2
 http://10.100.100.38/0.ts
-
-HCH HD
+#EXTINF:-1,HCH HD
 https://tgn.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
-
-TELEPROGRESO
+#EXTINF:-1,TELEPROGRESO
 rtmp://10.10.20.20:1935/cha1/live
-
 #EXTINF:0,10.2000-RCN NUESTRA TELE - RCN NUESTRA TELE
 http://138.0.228.250:44380/play/NwTjrW2RFy1Um4zW/index.m3u8
 #EXTINF:0,10200-3ABN - NK
