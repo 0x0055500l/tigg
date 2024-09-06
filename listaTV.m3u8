@@ -5,18 +5,34 @@ https://astra.teleceiba.com:8443/play/a002/index.m3u8
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 #EXTINF:-1,CANAL 32 cablecolor
 https://201.220.133.122:8920/Canal32HD/mono.m3u8
+#EXTINF:-1,CANAL 32 streaming comunica-
+https://streaming.comunicacioneshn.com:8920/Canal32SD_RTSP/mono.m3u8
 #EXTINF:-1,CANAL 23 enred
 rtmp://168.181.121.194:1935/cha3/live?key=wP@vT6*vcLq
 #EXTINF:-1,HCH DAILYMOTION 
 https://www.dailymotion.com/video/x81za5c
+#EXTINF:-1,HCH SD
+http://45.4.85.214:58001/play/a00l
+#EXTINF:0,HCH HD
+http://138.0.228.250:44380/play/a00a/index.m3u8
 #EXTINF:-1,DEPORTES TVC ENVIVO
 rtmp://10.100.100.38/live/0
+#EXTINF:0,Tigo Sports HD
+http://45.166.93.74:8000/play/a0ca/index.m3u8
+#EXTINF:0,Tigo Sports 2 HD
+http://45.166.93.74:8000/play/a0hu/index.m3u8
 #EXTINF:-1,tsi
 rtmp://10.100.100.34/live/0
+#EXTINF:0,CANAL 11 720 HD
+http://138.0.228.250:44380/play/a009/index.m3u8
 #EXTINF:-1,TELEVICENTRO
 rtmp://10.100.100.34/live/4
 #EXTINF:-1,Telecadena 7/4
 rtmp://10.100.100.34/live/8
+#EXTINF:-1,SUYAPA TV
+http://45.4.85.214:58001/play/a01u
+#EXTINF:0,MARIA VISION
+http://181.78.109.49:8000/play/a06p/index.m3u8
 #EXTINF:-1,MEGA CLASICOS
 http://10.100.100.34/12.ts
 #EXTINF:-1,HCH SD 
@@ -33,6 +49,8 @@ http://10.100.100.38/0.ts
 https://tgn.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
 #EXTINF:-1,TELEPROGRESO
 rtmp://10.10.20.20:1935/cha1/live
+#EXTINF:-1,TELEPAIS
+https://www.tphonduras.net/Live/4848.m3u8
 #EXTINF:0,10.2000-RCN NUESTRA TELE - RCN NUESTRA TELE
 http://138.0.228.250:44380/play/NwTjrW2RFy1Um4zW/index.m3u8
 #EXTINF:0,10200-3ABN - NK
