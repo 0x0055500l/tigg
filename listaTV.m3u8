@@ -6,7 +6,7 @@ https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 #EXTINF:-1,CANAL 32 cablecolor
 https://201.220.133.122:8920/Canal32HD/mono.m3u8
 #EXTINF:-1,CANAL 32 streaming comunica-
-https://streaming.comunicacioneshn.com:8920/Canal32SD_RTSP/mono.m3u8
+http://streaming.comunicacioneshn.com:8920/Canal32SD_RTSP/mono.m3u8
 #EXTINF:-1,CANAL 23 enred
 rtmp://168.181.121.194:1935/cha3/live?key=wP@vT6*vcLq
 #EXTINF:-1,HCH DAILYMOTION 
