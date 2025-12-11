@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1, CANAL 32 cablecolor
+https://201.220.133.122:8920/Canal32HD/mono.m3u8
+
+#EXTINF:-1, CANAL 23 enred
+rtmp://168.181.121.194:1935/cha3/live?key=wP@vT6*vcLq
+
+#EXTINF:-1, HCH DAILYMOTION 
+https://www.dailymotion.com/video/x81za5c
+
+#EXTINF:-1, HCH ROCKU
+https://rokuhch.saiddcruz.com/live/streams/hch1.m3u8
+
+#EXTINF:-1, OTRO HCH
+http://servicetvon.com:48836/3673725/f5843607e81e4242bcad0a44d9bbae81/233fe9ad32964562b3ae9706919b2f06/live.m3u8?key=86YeuScYSdkiuT
+
+#EXTINF:-1, CANAL 32 HD MPEGS
+https://streaming.comunicacioneshn.com:8920/Canal32SD_RTSP/mpegts
+
+#EXTINF:-1,FHD CANAL 32 1080I
+https://streaming.comunicacioneshn.com:8920/Canal32HD/mono.m3u8
+
+#EXTINF:-1, CAMERA HOME
+rtsp://admin:2020wifi@192.168.0.195/live
+
+#EXTINF:-1, TELEPAIS o TELEPROGRESO
+rtmp://10.10.20.20:1935/cha1/live
+
+#EXTINF:-1, CANAL11
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:-1, TSI HD from enred
+rtmp://10.100.100.34/live/0
+
+#EXTINF:-1, TSi HD from ultranet
+https://streaming.comunicacioneshn.com:8920/mc_stream7_hd/mono.m3u8
+
+#EXTINF:-1, HCH HD
+https://streaming.comunicacioneshn.com:8920/hch2hd/mono.m3u8
+
+#EXTINF:-1, Canal 5 HD
+https://streaming.comunicacioneshn.com:8920/canal-5-hd-/mono.m3u8
+
+#EXTINF:-1, CNN Español SD
+https://streaming.comunicacioneshn.com:8920/CNNE/mono.m3u8
+
+#EXTINF:-1, Deportes TVC
+https://streaming.comunicacioneshn.com:8920/DeportesTVC_DIRECTO/mono.m3u8
+
+#EXTINF:-1, Univision
+http://192.168.173.27:80/UNIVISION/mono.m3u8
+
 #EXTINF:-1, TELECEIBA
 https://astra.teleceiba.com:8443/play/a002/index.m3u8
 #EXTINF:-1,LitoralHD
