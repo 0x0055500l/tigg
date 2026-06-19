@@ -257,19 +257,19 @@ http://201.77.60.62:8002/play/a0kf/index.m3u8
 #EXTINF:-1 group-title="-",CANAL 5 (URUGUAY fifa)
 https://tinyurl.com/canal5uy
 #EXTINF:-1 group-title="-",CHILEVISION (chile fifa)
-tinyurl.com/tvchilevision
+https://tinyurl.com/tvchilevision
 #EXTINF:-1 group-title="-",LAS ESTRELLAS (México FIFA)
-tinyurl.com/estrellastv
+https://tinyurl.com/estrellastv
 #EXTINF:-1 group-title="-",TUDN (México FIFA)
-tinyurl.com/tudnsports
+https://tinyurl.com/tudnsports
 #EXTINF:-1 group-title="-",AZTECA 7 (México FIFA)
-tinyurl.com/azteca7mx
+https://tinyurl.com/azteca7mx
 #EXTINF:-1 group-title="-",CARACOL (Colombia FIFA)
-tinyurl.com/tvcaracolhd
+https://tinyurl.com/tvcaracolhd
 #EXTINF:-1 group-title="-",DSPORTS (Sudamérica)
-tinyurl.com/dsportsgo
+https://tinyurl.com/dsportsgo
 #EXTINF:-1 group-title="-",DSPORTS 2 (Sudamérica)
-tinyurl.com/dsportsgo2
+https://tinyurl.com/dsportsgo2
 #EXTINF:-1 group-title="-",FoxSport
 http://45.167.2.101:8000/play/a0rs/index.m3u8
 #EXTINF:-1 group-title="-",FoxSport2
@@ -403,6 +403,7 @@ http://179.1.143.53:8000/play/a00g/index.m3u8
 #EXTM3U
 #EXTINF:0,✦●✦ FIFA WORLD CUP ✦●✦
 #EXTVLCOPT:network-caching=1000
+http://xincnwke.msgssmart.com:80/HDMWC9A5/WZUWSVNZ/1412587
 #EXTINF:-1 group-title="-", DSPORTS Opc. 1
 https://tinyurl.com/dsportsgo
 #EXTINF:-1 group-title="-",DSPORTS Opc. 2
@@ -449,6 +450,7 @@ https://tinyurl.com/tvespn2a
 https://tinyurl.com/tvespn2b
 #EXTM3U
 #EXTINF:0,✦●✦ LISTADO ASTRA2 ✦●✦
+http://xincnwke.msgssmart.com:80/HDMWC9A5/WZUWSVNZ/1412587
 #EXTINF:-1 group-title="-",11 - Repretel
 http://45.228.233.60:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="-",4 Repretel
