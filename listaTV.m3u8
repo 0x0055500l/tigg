@@ -47,6 +47,9 @@ https://streaming.comunicacioneshn.com:8920/CNNE/mono.m3u8
 #EXTINF:-1, Deportes TVC
 https://streaming.comunicacioneshn.com:8920/DeportesTVC_DIRECTO/mono.m3u8
 
+#EXTINF:-1, TELEVISION DE TOCOA +TV
+http://168.181.121.194:1836/hlscha12/llive.m3u8?key=6y8aUsX3j
+
 #EXTINF:-1, Univision (local)
 http://192.168.173.27:80/UNIVISION/mono.m3u8
 
@@ -100,9 +103,9 @@ rtmp://190.5.109.106:1010
 http://10.100.100.38/0.ts
 #EXTINF:-1,HCH HD (OFF)
 https://tgn.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
-#EXTINF:-1,TELEPROGRESO local
+#EXTINF:-1,TELEPROGRESO local (off)
 rtmp://10.10.20.20:1935/cha1/live
-#EXTINF:-1,TELEPAIS HD
+#EXTINF:-1,TELEPAIS HD (ON)
 https://www.tphonduras.net/Live/4848.m3u8
 #EXTINF:0,RCN NUESTRA TELE - RCN NUESTRA TELE (OFF)
 http://138.0.228.250:44380/play/NwTjrW2RFy1Um4zW/index.m3u8
