@@ -11,11 +11,14 @@ https://rokuhch.saiddcruz.com/live/streams/hch1.m3u8
 #EXTINF:-1, OTRO HCH
 http://servicetvon.com:48836/3673725/f5843607e81e4242bcad0a44d9bbae81/233fe9ad32964562b3ae9706919b2f06/live.m3u8?key=86YeuScYSdkiuT
 
-#EXTINF:-1, CANAL 32 HD MPEGS
+#EXTINF:-1, CANAL 32 HD MPEGS (COMUNICACIONES)
 https://streaming.comunicacioneshn.com:8920/Canal32SD_RTSP/mpegts
 
-#EXTINF:-1,FHD CANAL 32 1080I
+#EXTINF:-1,FHD CANAL 32 1080I (COMUNICACIONES)
 https://streaming.comunicacioneshn.com:8920/Canal32HD/mono.m3u8
+
+#EXTINF:-1,CANAL 32 (local)
+http://localhost:3000/mpegts
 
 #EXTINF:-1, TELEPAIS o TELEPROGRESO (local)
 rtmp://10.10.20.20:1935/cha1/live
@@ -29,28 +32,28 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1, TSI HD from enred  (local) (OFF)
 rtmp://10.100.100.34/live/0
 
-#EXTINF:-1, TSi HD from ultranet
+#EXTINF:-1, TSi HD (COMUNICACIONES)
 https://streaming.comunicacioneshn.com:8920/mc_stream7_hd/mono.m3u8
 
 #EXTINF:-1 tvg-id="Televicentro" tvg-name="Televicentro" tvg-logo="https://www.televicentro.com/_next/static/media/logo-televicentro-v2.8342717f.webp",Televicentro HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8?uid=Xd82SnbMRXbyGQsphpMWQLmO898CVhBF&sid=iscPAHbyrmxCZoep2BBJZ5Pd1jzl8oig&pid=RbZzJkjBAMnprtkfovABvfrjMuBzcRN1&pid_dvr=i9a5QTip4dBbG8umx01BhPDBfhzvQ66o&an=screen&at=web-app&av=v7.0.65&ref=https%3A%2F%2Fwww.televicentro.com%2F&res=1504x846&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1, HCH HD
+#EXTINF:-1, HCH HD (COMUNICACIONES)
 https://streaming.comunicacioneshn.com:8920/hch2hd/mono.m3u8
 
-#EXTINF:-1, Canal 5 HD
+#EXTINF:-1, Canal 5 HD (COMUNICACIONES)
 https://streaming.comunicacioneshn.com:8920/canal-5-hd-/mono.m3u8
 
-#EXTINF:-1, CNN Español SD
+#EXTINF:-1, CNN Español SD (COMUNICACIONES)
 https://streaming.comunicacioneshn.com:8920/CNNE/mono.m3u8
 
-#EXTINF:-1, Deportes TVC
+#EXTINF:-1, Deportes TVC (COMUNICACIONES)
 https://streaming.comunicacioneshn.com:8920/DeportesTVC_DIRECTO/mono.m3u8
 
 #EXTINF:-1, TELEVISION DE TOCOA +TV
 http://168.181.121.194:1836/hlscha12/llive.m3u8?key=6y8aUsX3j
 
-#EXTINF:-1, Univision (local)
+#EXTINF:-1, Univision (local) (OFF)
 http://192.168.173.27:80/UNIVISION/mono.m3u8
 
 #EXTINF:-1, TELECEIBA (old)
@@ -59,54 +62,48 @@ https://astra.teleceiba.com:8443/play/a002/index.m3u8
 https://teleceiba.com/stream/tlcb720.m3u8
 #EXTINF:-1,LitoralHD
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
-#EXTINF:-1,CANAL 32 cablecolor
-https://201.220.133.122:8920/Canal32HD/mono.m3u8
-#EXTINF:-1,CANAL 32 streaming comunica-
-http://streaming.comunicacioneshn.com:8920/Canal32SD_RTSP/mono.m3u8
-#EXTINF:-1,CANAL 23 enred
+#EXTINF:-1,CANAL 23 enred (Temporally down)
 rtmp://168.181.121.194:1935/cha3/live?key=wP@vT6*vcLq
-#EXTINF:-1,HCH DAILYMOTION 
+#EXTINF:-1,HCH DAILYMOTION (off)
 https://www.dailymotion.com/video/x81za5c
 #EXTINF:-1,HCH SD (OFF)
 http://45.4.85.214:58001/play/a00l
-#EXTINF:0,HCH HD (OFF)
-http://138.0.228.250:44380/play/a00a/index.m3u8
-#EXTINF:-1,DEPORTES TVC ENVIVO (local)
+#EXTINF:-1,DEPORTES TVC ENVIVO (local) (OFF)
 rtmp://10.100.100.38/live/0
 #EXTINF:0,Tigo Sports HD (OFF)
 http://45.166.93.74:8000/play/a0ca/index.m3u8
 #EXTINF:0,Tigo Sports 2 HD (OFF)
 http://45.166.93.74:8000/play/a0hu/index.m3u8
-#EXTINF:-1,tsi local
+#EXTINF:-1,tsi (local)(off)
 rtmp://10.100.100.34/live/0
-#EXTINF:0,CANAL 11 720 HD
-http://138.0.228.250:44380/play/a009/index.m3u8
-#EXTINF:-1,TELEVICENTRO local
+#EXTINF:-1,TELEVICENTRO (local)(off)
 rtmp://10.100.100.34/live/4
-#EXTINF:-1,Telecadena 7/4 local
+#EXTINF:-1,Telecadena 7/4 local (local)(off)
 rtmp://10.100.100.34/live/8
 #EXTINF:-1,SUYAPA TV
 http://45.4.85.214:58001/play/a01u
 #EXTINF:0,MARIA VISION
 http://181.78.109.49:8000/play/a06p/index.m3u8
-#EXTINF:-1,MEGA CLASICOS local
+#EXTINF:-1,MEGA CLASICOS (local)(off)
 http://10.100.100.34/12.ts
 #EXTINF:-1,HCH SD (OFF)
 https://201.220.133.122:8920/HCH/mono.m3u8
-#EXTINF:-1,CANAL 32 LOCAL
+#EXTINF:-1,CANAL 32 (local)(off)
 http://10.10.24.106/0.ts
-#EXTINF:-1,CANAL 11
+#EXTINF:-1,CANAL 11 (off)
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1,DEPORTESTVC1 (ON)
 rtmp://190.5.109.106:1010
-#EXTINF:-1,DEPORTESTVC2 local
+#EXTINF:-1,DEPORTESTVC2 (local)(off)
 http://10.100.100.38/0.ts
 #EXTINF:-1,HCH HD (OFF)
 https://tgn.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
-#EXTINF:-1,TELEPROGRESO local (off)
+#EXTINF:-1,TELEPROGRESO (local)(off)
 rtmp://10.10.20.20:1935/cha1/live
 #EXTINF:-1,TELEPAIS HD (ON)
 https://www.tphonduras.net/Live/4848.m3u8
+#EXTINF:0,✦●✦ LISTADO MULTICABLE (OFF) ✦●✦
+http://xincnwke.msgssmart.com:80/HDMWC9A5/WZUWSVNZ/1412587
 #EXTINF:0,RCN NUESTRA TELE - RCN NUESTRA TELE (OFF)
 http://138.0.228.250:44380/play/NwTjrW2RFy1Um4zW/index.m3u8
 #EXTINF:0,3ABN - NK
@@ -135,6 +132,8 @@ http://138.0.228.250:44380/play/a00z/index.m3u8
 http://138.0.228.250:44380/play/a00m/index.m3u8
 #EXTINF:0,CANAL 11 HD
 http://138.0.228.250:44380/play/a009/index.m3u8
+#EXTINF:0,HCH HD (OFF)
+http://138.0.228.250:44380/play/a00a/index.m3u8
 #EXTINF:0,CANAL 5 XHGC HD
 http://138.0.228.250:44380/play/a00k/index.m3u8
 #EXTINF:0,CANAL 5 XHGC HD MX
@@ -171,8 +170,6 @@ http://138.0.228.250:44380/play/a00g/index.m3u8
 http://138.0.228.250:44380/play/a001/index.m3u8
 #EXTINF:0,HBO 2 HD
 http://138.0.228.250:44380/play/a00d/index.m3u8
-#EXTINF:0,HCH HD
-http://138.0.228.250:44380/play/a00a/index.m3u8
 #EXTINF:0,HISTORY2 - NKT
 http://138.0.228.250:44380/play/21xYmwJRfM7Hfou/index.m3u8
 #EXTINF:0,INVESTIGATION DISCOVERY - NKT
@@ -221,6 +218,8 @@ http://138.0.228.250:44380/play/a00x/index.m3u8
 http://138.0.228.250:44380/play/a00i/index.m3u8
 #EXTINF:0,VIDEOROLA - NKT
 http://138.0.228.250:44380/play/9kLuuNM49ja2KsKCTVE7/index.m3u8
+#EXTINF:0,✦●✦ LISTADO ASTRA1 (ON) ✦●✦
+http://xincnwke.msgssmart.com:80/HDMWC9A5/WZUWSVNZ/1412587
 #EXTINF:-1 group-title="-", ESPN 2
 http://201.77.60.62:8002/play/a091/index.m3u8
 #EXTINF:-1 group-title="-", ESPN 3
@@ -263,22 +262,6 @@ http://201.77.60.62:8002/play/a0kw/index.m3u8
 http://201.77.60.62:8002/play/a0np/index.m3u8
 #EXTINF:-1 group-title="-",espn extra
 http://201.77.60.62:8002/play/a0kf/index.m3u8
-#EXTINF:-1 group-title="-",CANAL 5 (URUGUAY fifa)
-https://tinyurl.com/canal5uy
-#EXTINF:-1 group-title="-",CHILEVISION (chile fifa)
-https://tinyurl.com/tvchilevision
-#EXTINF:-1 group-title="-",LAS ESTRELLAS (México FIFA)
-https://tinyurl.com/estrellastv
-#EXTINF:-1 group-title="-",TUDN (México FIFA)
-https://tinyurl.com/tudnsports
-#EXTINF:-1 group-title="-",AZTECA 7 (México FIFA)
-https://tinyurl.com/azteca7mx
-#EXTINF:-1 group-title="-",CARACOL (Colombia FIFA)
-https://tinyurl.com/tvcaracolhd
-#EXTINF:-1 group-title="-",DSPORTS (Sudamérica)
-https://tinyurl.com/dsportsgo
-#EXTINF:-1 group-title="-",DSPORTS 2 (Sudamérica)
-https://tinyurl.com/dsportsgo2
 #EXTINF:-1 group-title="-",FoxSport
 http://45.167.2.101:8000/play/a0rs/index.m3u8
 #EXTINF:-1 group-title="-",FoxSport2
@@ -441,6 +424,8 @@ https://tinyurl.com/telemundotvb
 https://tinyurl.com/aztecatva
 #EXTINF:-1 group-title="-",AZTECA 7 Opc. 2
 https://tinyurl.com/aztecatvb
+#EXTINF:-1 group-title="-",AZTECA 7 (México FIFA)
+https://tinyurl.com/azteca7mx
 #EXTINF:-1 group-title="-",AMÉRICA TV Opc. 1
 https://tinyurl.com/tvamerica
 #EXTINF:-1 group-title="-",AMÉRICA TV Opc. 2
@@ -457,6 +442,12 @@ https://tinyurl.com/tvespn1b
 https://tinyurl.com/tvespn2a
 #EXTINF:-1 group-title="-",ESPN 2 Opc. 2
 https://tinyurl.com/tvespn2b
+#EXTINF:-1 group-title="-",CANAL 5 (URUGUAY fifa)
+https://tinyurl.com/canal5uy
+#EXTINF:-1 group-title="-",LAS ESTRELLAS (México FIFA)
+https://tinyurl.com/estrellastv
+#EXTINF:-1 group-title="-",CARACOL (Colombia FIFA)
+https://tinyurl.com/tvcaracolhd
 #EXTM3U
 #EXTINF:0,✦●✦ LISTADO ASTRA2 ✦●✦
 http://xincnwke.msgssmart.com:80/HDMWC9A5/WZUWSVNZ/1412587
